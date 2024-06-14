@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
             child: Card(
               color: Colors.grey[300],
               elevation: 20,
-              shadowColor: Colors.black,
+              shadowColor: Colors.red,
               child: Container(
                 height: 530,
                 width: 300,
